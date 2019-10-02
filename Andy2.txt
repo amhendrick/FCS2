@@ -2,7 +2,7 @@ Andy2
 SEC,East,West,,,,,,,,,,,
 ACC,North,South,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
-Big 12,North,South,,,,,,,,,,,
+Big 12,South,North,,,,,,,,,,,
 Pac 12,North,South,,,,,,,,,,,
 AAC,East,West,,,,,,,,,,,
 # Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
