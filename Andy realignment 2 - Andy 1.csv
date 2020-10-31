@@ -1,0 +1,99 @@
+Andy 2a,,,,,,
+AAC,North,South,,,,
+ACC,North,South,,,,
+Big Ten,East,West,,,,
+SEC,North,South,,,,
+Big 12,North,South,,,,
+Pac 12,North,South,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# SEC,,,,,,
+TEAM,AAC,North,Boston College,BC,90,ECU
+TEAM,AAC,North,Syracuse,SYR,85,UVA
+TEAM,AAC,North,Army,ARMY,80,NAVY
+TEAM,AAC,North,Rutgers,RUT,75,ODU
+TEAM,AAC,North,Temple,TEM,70,MARY
+TEAM,AAC,North,Penn St.,PSU,65,VT
+TEAM,AAC,North,Pittsburgh,PITT,60,WVA
+TEAM,AAC,South,Maryland,MARY,90,TEM
+TEAM,AAC,South,Navy,NAVY,85,ARMY
+TEAM,AAC,South,West Virginia,WVA,80,PITT
+TEAM,AAC,South,Virginia,UVA,75,SYR
+TEAM,AAC,South,Virginia Tech,VT,70,PSU
+TEAM,AAC,South,Old Dominion,ODU,65,RUT
+TEAM,AAC,South,East Carolina,ECU,60,BC
+# ACC,,,,,,
+TEAM,ACC,North,Duke,DUKE,90,MIA
+TEAM,ACC,North,North Carolina,UNC,85,FLA
+TEAM,ACC,North,NC State,NCST,80,GT
+TEAM,ACC,North,Wake Forest,WAKE,75,FSU
+TEAM,ACC,North,Appalachian St.,APST,70,UCF
+TEAM,ACC,North,Clemson,CLEM,65,UGA
+TEAM,ACC,North,South Carolina,SCAR,60,SFLA
+TEAM,ACC,South,Georgia,UGA,90,CLEM
+TEAM,ACC,South,Georgia Tech,GT,85,NCST
+TEAM,ACC,South,Florida St.,FSU,80,WAKE
+TEAM,ACC,South,Florida,FLA,75,UNC
+TEAM,ACC,South,Miami,MIA,70,DUKE
+TEAM,ACC,South,UCF,UCF,65,APST
+TEAM,ACC,South,South Florida,SFLA,60,SCAR
+# B10,,,,,,
+TEAM,Big Ten,East,Michigan,MICH,90,MINN
+TEAM,Big Ten,East,Michigan St.,MSU,85,WISC
+TEAM,Big Ten,East,Ohio St,OSU,80,IOWA
+TEAM,Big Ten,East,Cincinnati,CINN,75,MIZZ
+TEAM,Big Ten,East,Notre Dame,ND,70,NW
+TEAM,Big Ten,East,Purdue,PUR,65,IWST
+TEAM,Big Ten,East,Indiana,IND,60,ILL
+TEAM,Big Ten,West,Minnesota,MINN,90,MICH
+TEAM,Big Ten,West,Wisconsin,WISC,85,MSU
+TEAM,Big Ten,West,Northwestern,NW,80,ND
+TEAM,Big Ten,West,Illinois,ILL,75,IND
+TEAM,Big Ten,West,Iowa,IOWA,70,OSU
+TEAM,Big Ten,West,Iowa St,IWST,65,PUR
+TEAM,Big Ten,West,Missouri,MIZZ,60,CINN
+# Big12,,,,,,
+TEAM,SEC,North,Louisville,LOU,90,LLAF
+TEAM,SEC,North,Kentucky,KEN,85,LSU
+TEAM,SEC,North,Tennessee,TENN,80,ALA
+TEAM,SEC,North,Vanderbilt,VAND,75,TULN
+TEAM,SEC,North,Memphis,MEM,70,MISS
+TEAM,SEC,North,Arkansas,ARK,65,AUB
+TEAM,SEC,North,Arkansas St,ARST,60,MSST
+TEAM,SEC,South,Alabama,ALA,90,TENN
+TEAM,SEC,South,Auburn,AUB,85,ARK
+TEAM,SEC,South,Ole Miss,MISS,80,MEM
+TEAM,SEC,South,Mississippi St,MSST,75,ARST
+TEAM,SEC,South,LSU,LSU,70,KEN
+TEAM,SEC,South,Tulane,TULN,65,VAND
+TEAM,SEC,South,Louisiana,LLAF,60,LOU
+# Pac 12,,,,,,
+TEAM,Big 12,North,Nebraska,NEB,90,TCU
+TEAM,Big 12,North,Colorado,COL,85,SMU
+TEAM,Big 12,North,Air Force,AF,80,HOU
+TEAM,Big 12,North,Kansas,KAN,75,BAY
+TEAM,Big 12,North,Kansas St,KSST,70,TT
+TEAM,Big 12,North,Oklahoma,OKL,65,TEX
+TEAM,Big 12,North,Oklahoma St,OKST,60,TAMU
+TEAM,Big 12,South,Texas,TEX,90,OKL
+TEAM,Big 12,South,Texas A&M,TAMU,85,OKST
+TEAM,Big 12,South,Texas Tech,TT,80,KSST
+TEAM,Big 12,South,TCU,TCU,75,NEB
+TEAM,Big 12,South,SMU,SMU,70,COL
+TEAM,Big 12,South,Baylor,BAY,65,KAN
+TEAM,Big 12,South,Houston,HOU,60,AF
+# AAC,,,,,,
+TEAM,Pac 12,North,Washington,WASH,90,CAL
+TEAM,Pac 12,North,Washington St,WAZU,85,AZST
+TEAM,Pac 12,North,Oregon,ORE,80,USC
+TEAM,Pac 12,North,Oregon St,ORST,75,SDST
+TEAM,Pac 12,North,Boise St,BOIS,70,UCLA
+TEAM,Pac 12,North,Utah,UTAH,65,ARIZ
+TEAM,Pac 12,North,BYU,BYU,60,STAN
+TEAM,Pac 12,South,California,CAL,90,WASH
+TEAM,Pac 12,South,Stanford,STAN,85,BYU
+TEAM,Pac 12,South,UCLA,UCLA,80,BOIS
+TEAM,Pac 12,South,USC,USC,75,ORE
+TEAM,Pac 12,South,San Diego St,SDST,70,ORST
+TEAM,Pac 12,South,Arizona,ARIZ,65,UTAH
+TEAM,Pac 12,South,Arizona St,AZST,60,WAZU
+END_FILE,,,,,,
